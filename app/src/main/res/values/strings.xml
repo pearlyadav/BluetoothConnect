@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BluetoothConnect</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="turn_on">Turn on</string>
+    <string name="select_led_s">Select LED\'s</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="not_connected">Initial State</string>
+    <string name="all_led">All LED</string>
+    <string name="configure_led_s">configure led\'s</string>
+    <string name="save">Save</string>
+    <string name="view_saved">View Saved</string>
+</resources>
